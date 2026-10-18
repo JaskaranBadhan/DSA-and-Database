@@ -39,6 +39,7 @@ Leetcode and github
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/JaskaranBadhan/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/JaskaranBadhan/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0125-valid-palindrome](https://github.com/JaskaranBadhan/DSA/tree/main/0125-valid-palindrome/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ Leetcode and github
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JaskaranBadhan/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/JaskaranBadhan/DSA/tree/main/0027-remove-element/) | Easy |
+| [0125-valid-palindrome](https://github.com/JaskaranBadhan/DSA/tree/main/0125-valid-palindrome/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
