@@ -41,6 +41,7 @@ Leetcode and github
 | [0014-longest-common-prefix](https://github.com/JaskaranBadhan/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/JaskaranBadhan/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/JaskaranBadhan/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/JaskaranBadhan/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/JaskaranBadhan/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@ Leetcode and github
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JaskaranBadhan/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/JaskaranBadhan/DSA/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/JaskaranBadhan/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/JaskaranBadhan/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/JaskaranBadhan/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/JaskaranBadhan/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Enumeration
