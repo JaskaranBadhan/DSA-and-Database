@@ -14,6 +14,7 @@ Leetcode and github
 | [0283-move-zeroes](https://github.com/JaskaranBadhan/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/JaskaranBadhan/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/JaskaranBadhan/DSA/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
+| [1929-concatenation-of-array](https://github.com/JaskaranBadhan/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ Leetcode and github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/JaskaranBadhan/DSA/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
+| [1929-concatenation-of-array](https://github.com/JaskaranBadhan/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
